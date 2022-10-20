@@ -6,16 +6,16 @@ This is my biggest C# work so far.
 This software is designed to collect data from remote electricity metering devices and stash them into database. Database is not included in repo.
 
 # Особенности / Features
-Многопользовательская / Multi-users
-Многопоточная / Multi-threaded
-Реализует ООП через интерфейсы / Implements OOP through interfaces 
-Отчёты на Excel (генерятся и используют готовые шаблоны) / Reports on Excel
-Логи работы в формате rtf / Worklogs in rtf format
-Рассылка отчётов по почте через Outlook / Report sending via outlook
+Многопользовательская / Multi-users <br/>
+Многопоточная / Multi-threaded <br/>
+Реализует ООП через интерфейсы / Implements OOP through interfaces <br/>
+Отчёты на Excel (генерятся и используют готовые шаблоны) / Reports on Excel <br/>
+Логи работы в формате rtf / Worklogs in rtf format <br/>
+Рассылка отчётов по почте через Outlook / Report sending via outlook <br/>
 
 # Стэк технологий / Development stack
-C# на Visual Studio Community
-БД на MS SQL (создавалась на версии 2016 Standard)
+C# на Visual Studio Community <br/>
+БД на MS SQL (создавалась на версии 2016 Standard) <br/>
 
 
 
