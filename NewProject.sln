@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewProject", "NewProject\NewProject.csproj", "{7A914A17-1C31-4861-88A0-E2247E7A16FB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EAEDB0E1-7DB7-4E7D-A14C-1A39E05B6869}"
+	ProjectSection(SolutionItems) = preProject
+		Performance1.psess = Performance1.psess
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A914A17-1C31-4861-88A0-E2247E7A16FB}.Debug|x86.ActiveCfg = Debug|x86
+		{7A914A17-1C31-4861-88A0-E2247E7A16FB}.Debug|x86.Build.0 = Debug|x86
+		{7A914A17-1C31-4861-88A0-E2247E7A16FB}.Release|x86.ActiveCfg = Release|x86
+		{7A914A17-1C31-4861-88A0-E2247E7A16FB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

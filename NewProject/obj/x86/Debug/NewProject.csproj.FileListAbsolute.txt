@@ -1,0 +1,65 @@
+C:\Documents and Settings\protasov\Рабочий стол\Работа\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\protasov\Рабочий стол\Работа\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.Properties.Resources.resources
+C:\Documents and Settings\protasov\Рабочий стол\Работа\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\protasov\Рабочий стол\Работа\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\protasov\Рабочий стол\Работа\Разработка нового ПО для опроса\NewProject\NewProject\bin\Debug\NewProject.exe
+C:\Documents and Settings\protasov\Рабочий стол\Работа\Разработка нового ПО для опроса\NewProject\NewProject\bin\Debug\NewProject.pdb
+C:\Documents and Settings\protasov\Рабочий стол\Работа\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.exe
+C:\Documents and Settings\protasov\Рабочий стол\Работа\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.pdb
+C:\Documents and Settings\protasov\Рабочий стол\Работа\Разработка нового ПО для опроса\NewProject\NewProject\bin\Debug\NewProject.exe.config
+C:\Documents and Settings\protasov\Рабочий стол\Работа\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.MainForm.resources
+C:\Documents and Settings\protasov\Рабочий стол\Работа\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.AboutBox.resources
+A:\Разработка нового ПО для опроса\NewProject\NewProject\bin\Debug\NewProject.exe.config
+A:\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.exe
+A:\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.pdb
+A:\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.csprojResolveAssemblyReference.cache
+A:\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.AboutBox.resources
+A:\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.MainForm.resources
+A:\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.Properties.Resources.resources
+A:\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.csproj.GenerateResource.Cache
+C:\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.AboutBox.resources
+C:\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.MainForm.resources
+C:\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.Properties.Resources.resources
+C:\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.csproj.GenerateResource.Cache
+C:\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.csproj.ResolveComReference.cache
+C:\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.TasksForm.resources
+C:\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.PhotoForm.resources
+C:\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.UsersForm.resources
+C:\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\bin\Debug\Media.exe.config
+C:\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\bin\Debug\Media.exe
+C:\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\bin\Debug\Media.pdb
+C:\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\Media.exe
+C:\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\Media.pdb
+C:\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.CalendarForm.resources
+C:\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.ErrorsForm.resources
+C:\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.ReadingLogForm.resources
+C:\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.ChangesForm.resources
+C:\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.ObjectsListsForm.resources
+C:\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.EnergyHistoryGridForm.resources
+C:\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.csprojResolveAssemblyReference.cache
+C:\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.JournalCQCGridForm.resources
+C:\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.PLCChartForm.resources
+D:\my\Other\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.csproj.AssemblyReference.cache
+D:\my\Other\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.csproj.SuggestedBindingRedirects.cache
+D:\my\Other\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.csproj.ResolveComReference.cache
+D:\my\Other\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.AboutBox.resources
+D:\my\Other\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.CalendarForm.resources
+D:\my\Other\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.ChangesForm.resources
+D:\my\Other\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.EnergyHistoryGridForm.resources
+D:\my\Other\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.ErrorsForm.resources
+D:\my\Other\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.JournalCQCGridForm.resources
+D:\my\Other\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.MainForm.resources
+D:\my\Other\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.ObjectsListsForm.resources
+D:\my\Other\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.PhotoForm.resources
+D:\my\Other\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.PLCChartForm.resources
+D:\my\Other\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.Properties.Resources.resources
+D:\my\Other\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.ReadingLogForm.resources
+D:\my\Other\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.TasksForm.resources
+D:\my\Other\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.UsersForm.resources
+D:\my\Other\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.csproj.GenerateResource.cache
+D:\my\Other\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\NewProject.csproj.CoreCompileInputs.cache
+D:\my\Other\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\Media.exe
+D:\my\Other\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\obj\x86\Debug\Media.pdb
+D:\my\Other\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\bin\Debug\Media.exe.config
+D:\my\Other\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\bin\Debug\Media.exe
+D:\my\Other\VSProjects\Разработка нового ПО для опроса\NewProject\NewProject\bin\Debug\Media.pdb

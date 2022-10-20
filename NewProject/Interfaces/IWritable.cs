@@ -1,0 +1,6 @@
+﻿namespace NewProject
+{
+    interface IWritable
+    {
+    }
+}
